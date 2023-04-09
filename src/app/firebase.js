@@ -25,5 +25,4 @@ export const db = getFirestore(app);
 //CUENTA FIREBASE WEBAPP: LUIS ALBERTO AGUIRRE LUNA
 //RUTA PARA ACTUALIZAR LA WEB: C:\Users\USER\Desktop\Login>
 //COMANDO: 'firebase deploy'
-
 //PAGINA WEB HOSTING-FIREBASE: https://loginfirebase-ba56c.firebaseapp.com/
